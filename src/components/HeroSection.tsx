@@ -18,9 +18,9 @@ const HeroSection = () => {
           BOULDER BUILDERS PRESENTS
         </p>
         <h1 className="font-display text-5xl md:text-7xl lg:text-8xl leading-none text-secondary-foreground mb-6">
-          WIN A KITCHEN MAKEOVER
+          SANTA CLARITA VALLEY'S
           <br />
-          <span className="text-gradient-gold">WORTH UP TO $20,000</span>
+          <span className="text-gradient-gold">WORST KITCHEN CONTEST</span>
         </h1>
         <p className="text-lg md:text-xl text-muted max-w-2xl mx-auto mb-8">
           Submit photos of your outdated, damaged, or dysfunctional kitchen for a chance to win new cabinets, appliances, or a full remodel.
