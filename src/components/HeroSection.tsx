@@ -10,14 +10,8 @@ const HeroSection = () => {
       />
       <div className="absolute inset-0" style={{ background: "var(--dark-overlay)" }} />
       <div className="relative z-10 text-center px-4 max-w-4xl mx-auto">
-        <div className="mb-6 flex justify-center">
-          <img src={boulderLogo} alt="Boulder Builders Inc." className="h-20 md:h-28 w-auto" />
-        </div>
-        <p className="font-display text-xl md:text-2xl tracking-widest text-primary mb-4">
-          BOULDER BUILDERS PRESENTS
-        </p>
         <h1 className="font-display text-5xl md:text-7xl lg:text-8xl leading-none text-secondary-foreground mb-6">
-          SANTA CLARITA VALLEY'S
+          LOS ANGELES'S
           <br />
           <span className="text-gradient-gold">WORST KITCHEN CONTEST</span>
         </h1>
