@@ -1,5 +1,4 @@
 import heroImage from "@/assets/hero-kitchen.jpg";
-import boulderLogo from "@/assets/boulder-logo.png";
 
 const HeroSection = () => {
   return (
@@ -11,14 +10,8 @@ const HeroSection = () => {
       />
       <div className="absolute inset-0" style={{ background: "var(--dark-overlay)" }} />
       <div className="relative z-10 text-center px-4 max-w-4xl mx-auto">
-        <div className="mb-6 flex justify-center">
-          <img src={boulderLogo} alt="Boulder Builders Inc." className="h-20 md:h-28 w-auto" />
-        </div>
-        <p className="font-display text-xl md:text-2xl tracking-widest text-primary mb-4">
-          BOULDER BUILDERS PRESENTS
-        </p>
         <h1 className="font-display text-5xl md:text-7xl lg:text-8xl leading-none text-secondary-foreground mb-6">
-          SANTA CLARITA VALLEY'S
+          LOS ANGELES'S
           <br />
           <span className="text-gradient-gold">WORST KITCHEN CONTEST</span>
         </h1>
@@ -26,15 +19,15 @@ const HeroSection = () => {
           Submit photos of your outdated, damaged, or dysfunctional kitchen for a chance to win new cabinets, appliances, or a full remodel.
         </p>
         <a
-          href="sms:661-KITCHEN"
+          href="sms:323-KITCHEN"
           className="inline-block bg-primary text-primary-foreground font-bold text-lg md:text-xl px-10 py-5 rounded-lg animate-pulse-glow transition-transform hover:scale-105"
         >
-          TEXT 661-KITCHEN NOW TO ENTER
+          TEXT 323-KITCHEN NOW TO ENTER
         </a>
         <div className="mt-10 flex flex-wrap justify-center gap-6 text-sm text-muted">
           <div className="flex items-center gap-2">
             <span className="w-2 h-2 rounded-full bg-primary inline-block" />
-            Open to SCV homeowners
+            Open to LA homeowners
           </div>
           <div className="flex items-center gap-2">
             <span className="w-2 h-2 rounded-full bg-primary inline-block" />
