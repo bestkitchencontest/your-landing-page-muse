@@ -26,15 +26,15 @@ const HeroSection = () => {
           Submit photos of your outdated, damaged, or dysfunctional kitchen for a chance to win new cabinets, appliances, or a full remodel.
         </p>
         <a
-          href="sms:661-KITCHEN"
+          href="sms:323-KITCHEN"
           className="inline-block bg-primary text-primary-foreground font-bold text-lg md:text-xl px-10 py-5 rounded-lg animate-pulse-glow transition-transform hover:scale-105"
         >
-          TEXT 661-KITCHEN NOW TO ENTER
+          TEXT 323-KITCHEN NOW TO ENTER
         </a>
         <div className="mt-10 flex flex-wrap justify-center gap-6 text-sm text-muted">
           <div className="flex items-center gap-2">
             <span className="w-2 h-2 rounded-full bg-primary inline-block" />
-            Open to SCV homeowners
+            Open to LA homeowners
           </div>
           <div className="flex items-center gap-2">
             <span className="w-2 h-2 rounded-full bg-primary inline-block" />

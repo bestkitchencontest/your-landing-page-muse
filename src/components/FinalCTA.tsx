@@ -14,10 +14,10 @@ const FinalCTA = () => {
           </a>
         </p>
         <a
-          href="sms:661-KITCHEN"
+          href="sms:323-KITCHEN"
           className="inline-block bg-primary text-primary-foreground font-bold text-xl px-12 py-6 rounded-lg animate-pulse-glow transition-transform hover:scale-105"
         >
-          TEXT 661-KITCHEN NOW TO ENTER
+          TEXT 323-KITCHEN NOW TO ENTER
         </a>
       </div>
     </section>

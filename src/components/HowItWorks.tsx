@@ -4,7 +4,7 @@ const steps = [
   {
     icon: Camera,
     title: "Submit Photos",
-    description: "Take photos of your kitchen and text them to 661-KITCHEN with your details and why it deserves a makeover.",
+    description: "Take photos of your kitchen and text them to 323-KITCHEN with your details and why it deserves a makeover.",
   },
   {
     icon: UserCheck,
@@ -42,10 +42,10 @@ const HowItWorks = () => {
         </div>
         <div className="text-center mt-12">
           <a
-            href="sms:661-KITCHEN"
+            href="sms:323-KITCHEN"
             className="inline-block bg-primary text-primary-foreground font-bold text-lg px-8 py-4 rounded-lg transition-transform hover:scale-105"
           >
-            TEXT 661-KITCHEN TO ENTER NOW
+            TEXT 323-KITCHEN TO ENTER NOW
           </a>
         </div>
       </div>

@@ -19,10 +19,10 @@ const VideoSection = () => {
         </div>
         <div className="mt-10">
           <a
-            href="sms:661-KITCHEN"
+            href="sms:323-KITCHEN"
             className="inline-block bg-primary text-primary-foreground font-bold text-lg px-8 py-4 rounded-lg transition-transform hover:scale-105"
           >
-            TEXT 661-KITCHEN TO ENTER TODAY
+            TEXT 323-KITCHEN TO ENTER TODAY
           </a>
         </div>
       </div>

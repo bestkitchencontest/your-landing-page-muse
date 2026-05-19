@@ -9,7 +9,7 @@ const AboutSection = () => {
           Trusted Kitchen Remodeling Experts
         </h2>
         <p className="text-lg text-muted-foreground max-w-2xl mx-auto mb-6">
-          Boulder Builders specializes in high-quality kitchen transformations in the Santa Clarita Valley.
+          Boulder Builders specializes in high-quality kitchen transformations in the Los Angeles.
           Our team has helped hundreds of homeowners turn outdated kitchens into beautiful, modern spaces.
         </p>
         <p className="font-display text-2xl text-primary">Rock Solid Quality</p>
