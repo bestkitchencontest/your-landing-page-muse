@@ -1,5 +1,4 @@
 import heroImage from "@/assets/hero-kitchen.jpg";
-import boulderLogo from "@/assets/boulder-logo.png";
 
 const HeroSection = () => {
   return (
