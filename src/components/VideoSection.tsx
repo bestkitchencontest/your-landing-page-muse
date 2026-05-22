@@ -10,7 +10,7 @@ const VideoSection = () => {
         </p>
         <div className="relative aspect-[9/16] max-w-sm mx-auto rounded-2xl overflow-hidden shadow-2xl">
           <iframe
-            src="https://www.youtube.com/embed/oZSoV4pUgQE"
+            src="https://www.youtube.com/embed/SL3iLmXd1Ts"
             title="Contest Video"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
