@@ -11,7 +11,7 @@ const HeroSection = () => {
       <div className="absolute inset-0" style={{ background: "var(--dark-overlay)" }} />
       <div className="relative z-10 text-center px-4 max-w-4xl mx-auto">
         <h1 className="font-display text-5xl md:text-7xl lg:text-8xl leading-none text-secondary-foreground mb-6">
-          LOS ANGELES'S
+          LOS ANGELES
           <br />
           <span className="text-gradient-gold">WORST KITCHEN CONTEST</span>
         </h1>
