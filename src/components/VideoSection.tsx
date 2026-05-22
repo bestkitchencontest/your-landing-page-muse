@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { Play } from "lucide-react";
+import videoThumbnail from "@/assets/video-thumbnail.jpg";
 
 const VideoSection = () => {
   const [playing, setPlaying] = useState(false);
@@ -28,7 +29,7 @@ const VideoSection = () => {
               aria-label="Play video"
               className="group absolute inset-0 w-full h-full cursor-pointer overflow-hidden"
               style={{
-                backgroundImage: `url(https://img.youtube.com/vi/SL3iLmXd1Ts/maxresdefault.jpg)`,
+                backgroundImage: `url(${videoThumbnail})`,
                 backgroundSize: "cover",
                 backgroundPosition: "center",
               }}
