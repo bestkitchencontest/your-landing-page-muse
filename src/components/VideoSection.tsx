@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { Play } from "lucide-react";
+import videoThumbnail from "@/assets/video-thumbnail.jpg";
 
 const VideoSection = () => {
   const [playing, setPlaying] = useState(false);
