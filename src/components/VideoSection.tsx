@@ -33,23 +33,8 @@ const VideoSection = () => {
                 backgroundPosition: "center",
               }}
             >
-              {/* Flashing gold overlay */}
-              <div className="absolute inset-0 bg-primary/30 animate-pulse" />
-              <div className="absolute inset-0 bg-gradient-to-t from-background/80 via-transparent to-background/40" />
+              <div className="absolute inset-0 bg-gradient-to-t from-background/60 via-transparent to-transparent" />
 
-              {/* Pulsing rings */}
-              <span className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-28 h-28 rounded-full bg-primary/40 animate-ping" />
-              <span className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-20 h-20 rounded-full bg-primary/60 animate-ping [animation-delay:0.3s]" />
-
-              {/* Play button */}
-              <span className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-20 h-20 rounded-full bg-primary flex items-center justify-center shadow-2xl transition-transform group-hover:scale-110">
-                <Play className="w-10 h-10 text-primary-foreground fill-primary-foreground ml-1" />
-              </span>
-
-              {/* Flashing CTA text */}
-              <span className="absolute bottom-6 left-1/2 -translate-x-1/2 font-display text-2xl text-primary tracking-wider animate-pulse drop-shadow-[0_2px_8px_rgba(0,0,0,0.8)]">
-                ▶ TAP TO PLAY
-              </span>
             </button>
           )}
         </div>
